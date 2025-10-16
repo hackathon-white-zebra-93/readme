@@ -7,10 +7,6 @@
 - Read the doc at https://github.com/Azure-Samples/java-migration-copilot-samples/tree/main/asset-manager to understand the overall process. 
 - Follow the [guide](https://github.com/Azure-Samples/java-migration-copilot-samples/tree/main/asset-manager#migrate-the-sample-java-application) to migrate the sample Java application.
   - When forking the orignial GitHub repo, use "hackathon-white-zebra-93" as owner and "java-migration-copilot-samples-\<your github handle\>" as repository name.
-  - Be noted some UI changes from the doc.
-  <img width="519" height="462" alt="image" src="https://github.com/user-attachments/assets/0800b8c0-69c6-4c3e-ac46-7bce72799a87" />
-  <img width="940" height="659" alt="image" src="https://github.com/user-attachments/assets/8ccae8ae-7988-4d91-bd71-eb9ebdec383c" />
-  
 - Deployment to Azure is optional as it's going to take long time, e.g. > 30mins.
 
 ## Lab for Java upgrade (optional)
