@@ -2,6 +2,7 @@
 ## Preparation
 - Install [Visual Studio Code](https://code.visualstudio.com/Download) to your laptop if you don't have it and [setup GitHub Copilot](https://code.visualstudio.com/docs/copilot/setup-simplified) using the GitHub handle which you registered for the workshop.
 - Install [GitHub Copilot app modernization extension pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.migrate-java-to-azure) extension in Visual Studio code.
+- Microsoft OpenJDK could be found at https://learn.microsoft.com/en-us/java/openjdk/download
 
 ## Lab for Java modernization and migration
 - Read the doc at https://github.com/Azure-Samples/java-migration-copilot-samples/tree/main/asset-manager to understand the overall process. 
